@@ -7,3 +7,12 @@ Belajar kelas Memulai Pemrograman dengan C. (Progres 10%)
 * Belajar tentang apa itu C dan alasan menggunakannya.
 
 * Belajar tools yang dapat digunakan untuk menjalankan bahasa pemrograman C.
+
+
+26 Juli 2021
+
+Belajar kelas Memulai Pemrograman dengan C. (Progres 16%)
+
+  * Belajar dasar-dasar C, seperti mengenal Bahasa C
+
+  * Belajar IDE Online
